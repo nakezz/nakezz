@@ -19,7 +19,7 @@
 <!-- ABOUT ME: GAME STATS STYLE -->
 <div align="center">
 
-## 🔥 `[ PLAYER STATS ]` 🔥
+## 🔥  PLAYER STATS  🔥
 
 </div>
 
@@ -43,19 +43,19 @@
 <!-- SKILLS: INVENTORY STYLE -->
 <div align="center">
 
-## 🎒 `[ INVENTORY — TECH SKILLS ]`
+## 🎒  INVENTORY — TECH SKILLS 
 
 </div>
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                   ⚔️  WEAPONS & TOOLS ⚔️                     │
+│                   ⚔️  WEAPONS & TOOLS ⚔️                   │
 │                                                             │
-│  [LEGENDARY]  🟠 Python        🟠 TypeScript                │
+│  [LEGENDARY]  🟠 Python        🟠 TypeScript               │
 │  [EPIC]       🟣 React         🟣 Node.js                  │
 │  [RARE]       🔵 PostgreSQL    🔵 Docker                   │
-│  [UNCOMMON]   🟢 Redis         🟢 GraphQL                   │
-│  [COMMON]     ⚪ Git           ⚪ Linux                      │
+│  [UNCOMMON]   🟢 Redis         🟢 GraphQL                  │
+│  [COMMON]     ⚪ Git           ⚪ Linux                    │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -76,7 +76,7 @@
 <!-- GITHUB STATS -->
 <div align="center">
 
-## 📊 `[ QUEST LOG — GITHUB STATS ]`
+## 📊  QUEST LOG — GITHUB STATS 
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&title_color=FFD700&icon_color=FF4500&text_color=C0C0FF&bg_color=1A0A2E&border_color=800080&hide_border=false" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&title_color=FFD700&text_color=C0C0FF&bg_color=1A0A2E&border_color=800080" width="49%" />
@@ -92,7 +92,7 @@
 <!-- PROJECTS: QUEST BOARD -->
 <div align="center">
 
-## 🗺️ `[ ACTIVE QUESTS — PROJECTS ]`
+## 🗺️  ACTIVE QUESTS — PROJECTS 
 
 </div>
 
@@ -100,7 +100,7 @@
 ┌───────────────────────────────────────────────────────────────────────────────┐
 │  📜 QUEST BOARD                                                               │
 │                                                                               │
-│  ⚔️  [MAIN QUEST]   Putting everything into digital    ████████████░░  90%    │
+│  ⚔️  [MAIN QUEST]   Putting everything into digital    ████████████░░  90%    |
 │  🏹  [SIDE QUEST]   Project Beta                       ██████░░░░░░░░  45%    │
 │  🔮  [HIDDEN]       Secret Project                     ██░░░░░░░░░░░░  15%    │
 │  🌟  [COMPLETED]    Awesome Library                    ██████████████  100% ✓│
@@ -118,7 +118,7 @@
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
 
-## 🌄 `[ WORLD MAP — CONTRIBUTIONS ]`
+## 🌄  WORLD MAP — CONTRIBUTIONS 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=1a0a2e&color=c0c0ff&line=800080&point=FFD700&area=true&area_color=4B0082&hide_border=false&border_color=800080" width="100%" />
 
@@ -129,7 +129,7 @@
 <!-- CAMPFIRE SECTION -->
 <div align="center">
 
-## 🔥 `[ CAMPFIRE — FIND ME HERE ]`
+## 🔥  CAMPFIRE — FIND ME HERE 
 
 *Come sit by the fire, fellow adventurer...*
 
