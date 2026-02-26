@@ -130,22 +130,9 @@
 <div align="center">
 
 ## 🔥  CAMPFIRE — FIND ME HERE 
-
+<img src="7392521.jpg"/>
 *Come sit by the fire, fellow adventurer...*
 
-```
-        . ✦      ★        ·     ✦    ★       ·    ✦
-    ·       ★         ·              ·    ★             ·
-              ( ( ( FULL MOON ) ) )
-        ·           ·         ·          ·       ★
-
-   ═══════════════════════════════════════════════
-         🪵                     🏕️
-                   🔥
-              ·  ╱╲  ·
-             · ╱  ╲ ·
-   ═══════════════════════════════════════════════
-```
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
